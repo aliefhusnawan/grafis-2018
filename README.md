@@ -55,7 +55,7 @@ Solar System
 
 ### Topic & Description
 
-* Cammera assembling
+* zoom in zoom out in lens camera
 
 ### Github Repository
 
