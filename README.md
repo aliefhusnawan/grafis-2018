@@ -55,7 +55,7 @@ Solar System
 
 ### Topic & Description
 
-* Cammera assembling
+* zoom in zoom out cammera lens
 
 ### Github Repository
 
@@ -135,11 +135,7 @@ Solar System
 
 ### Topic & Description
 
-* Hidrolic pump
-
 ### Github Repository
-
-[https://github.com/safirharianto/ProjectUAS](ProjectUAS)
 
 
 ## Group IX
